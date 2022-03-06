@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Banking-With-React/static/css/main.37f19c1a.css",
+    "main.js": "/Banking-With-React/static/js/main.25a9be17.js",
+    "static/js/787.7fd281d5.chunk.js": "/Banking-With-React/static/js/787.7fd281d5.chunk.js",
+    "index.html": "/Banking-With-React/index.html",
+    "main.37f19c1a.css.map": "/Banking-With-React/static/css/main.37f19c1a.css.map",
+    "main.25a9be17.js.map": "/Banking-With-React/static/js/main.25a9be17.js.map",
+    "787.7fd281d5.chunk.js.map": "/Banking-With-React/static/js/787.7fd281d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f19c1a.css",
+    "static/js/main.25a9be17.js"
+  ]
+}
